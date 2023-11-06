@@ -16,7 +16,5 @@ El primer laboratorio de Miguel Hernández Collado en "git".
 
 - Elemento 1
 - Elemento 2
-  - Subelemento A
-  - Subelemento B
-
+  
 
